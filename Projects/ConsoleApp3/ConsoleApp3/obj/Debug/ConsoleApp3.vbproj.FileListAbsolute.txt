@@ -1,0 +1,9 @@
+c:\users\vladislav.metnev\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+c:\users\vladislav.metnev\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+c:\users\vladislav.metnev\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+c:\users\vladislav.metnev\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.xml
+c:\users\vladislav.metnev\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.Resources.resources
+c:\users\vladislav.metnev\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.vbproj.GenerateResource.Cache
+c:\users\vladislav.metnev\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+c:\users\vladislav.metnev\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.xml
+c:\users\vladislav.metnev\documents\visual studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
